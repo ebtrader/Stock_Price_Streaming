@@ -1,0 +1,4 @@
+(MainThread) 201207_15:15:37.654 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201207_15:15:37.655 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds.nj
+(MainThread) 201207_15:15:37.655 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201207_15:15:37.721 ERROR wrapper.py:56 ERROR 19001 10189 Failed to request tick-by-tick data:Last tick-by-tick requests are not supported for TQQQ  201211C00165000

@@ -1,0 +1,3 @@
+(MainThread) 201207_22:55:14.168 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 201207_22:55:14.169 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201207_22:55:14.182 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj

@@ -1,0 +1,6 @@
+(MainThread) 201207_23:36:36.892 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201207_23:36:36.893 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201207_23:36:36.893 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 201207_23:36:36.894 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201207_23:36:36.894 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201207_23:36:37.234 ERROR wrapper.py:56 ERROR 5003 200 No security definition has been found for the request

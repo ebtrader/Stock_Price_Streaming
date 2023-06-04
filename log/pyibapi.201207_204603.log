@@ -1,0 +1,11 @@
+(MainThread) 201207_20:46:03.768 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201207_20:46:03.769 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201207_20:46:03.769 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201207_20:46:03.769 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201207_20:46:03.769 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201207_20:46:03.770 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 201207_20:46:03.773 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201207_20:46:03.773 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201207_20:46:03.773 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201207_20:46:03.918 ERROR wrapper.py:56 ERROR 4103 162 Historical Market Data Service error message:No market data permissions for BATEDE, CHIXDE, DXEDE, EBS, FWB, GETTEX, IBIS, SWB, TGATE, TRQXDE STK
+(MainThread) 201207_20:46:04.069 ERROR wrapper.py:56 ERROR 19002 10189 Failed to request tick-by-tick data:No market data permissions for HEX STK

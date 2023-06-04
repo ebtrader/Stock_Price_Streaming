@@ -1,0 +1,8 @@
+(MainThread) 201208_10:30:50.158 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201208_10:30:50.159 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201208_10:30:50.159 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201208_10:30:50.160 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201208_10:30:50.160 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201208_10:30:50.160 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201208_10:30:50.353 ERROR wrapper.py:56 ERROR 4103 162 Historical Market Data Service error message:HMDS query returned no data: QQQ   201211C00305000@SMART Trades
+(MainThread) 201208_10:30:50.461 ERROR wrapper.py:56 ERROR 4103 162 Historical Market Data Service error message:HMDS query returned no data: QQQ   201211C00305000@SMART Trades

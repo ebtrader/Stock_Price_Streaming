@@ -1,0 +1,18 @@
+(MainThread) 201207_18:52:25.526 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201207_18:52:25.528 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201207_18:52:25.529 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201207_18:52:25.529 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201207_18:52:25.529 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201207_18:52:25.530 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201207_18:52:25.530 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201207_18:52:25.802 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201207_18:52:26.575 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 201207_18:52:26.725 ERROR wrapper.py:56 ERROR 4103 162 Historical Market Data Service error message:No market data permissions for BATEDE, CHIXDE, DXEDE, EBS, FWB, GETTEX, IBIS, SWB, TGATE, TRQXDE STK
+(MainThread) 201207_18:52:41.436 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_18:52:51.983 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_18:53:06.978 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_18:53:21.980 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_18:53:37.010 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_18:53:51.980 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_18:54:06.983 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_18:54:22.008 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj

@@ -1,0 +1,11 @@
+(MainThread) 201207_21:39:34.923 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201207_21:39:37.125 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(Thread-1) 201207_21:39:50.704 ERROR reader.py:52 unhandled exception in EReader thread
+Traceback (most recent call last):
+  File "C:\Users\jsidd\AppData\Roaming\Python\Python38\site-packages\ibapi\reader.py", line 34, in run
+    data = self.conn.recvMsg()
+  File "C:\Users\jsidd\AppData\Roaming\Python\Python38\site-packages\ibapi\connection.py", line 99, in recvMsg
+    buf = self._recvAllMsg()
+  File "C:\Users\jsidd\AppData\Roaming\Python\Python38\site-packages\ibapi\connection.py", line 119, in _recvAllMsg
+    buf = self.socket.recv(4096)
+OSError: [WinError 10038] An operation was attempted on something that is not a socket

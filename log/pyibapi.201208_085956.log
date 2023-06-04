@@ -1,0 +1,8 @@
+(MainThread) 201208_08:59:57.952 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201208_08:59:57.952 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201208_08:59:57.953 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201208_08:59:57.953 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usopt
+(MainThread) 201208_08:59:57.953 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201208_08:59:57.954 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201208_08:59:58.072 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201208_08:59:58.104 ERROR wrapper.py:56 ERROR 1017 321 Error validating request.-'bX' : cause - Incorrect generic tick list of 13.  Legal ones for (OPT) are: 100(Option Volume),101(Option Open Interest),105(Average Opt Volume),106(impvolat),165(Misc. Stats),221/220(Creditman Mark Price),225(Auction),232/221(Pl Price),233(RTVolume),236(inventory),258/47(Fundamentals),292(Wide_news),293(TradeCount),294(TradeRate),295(VolumeRate),318(LastRTHTrade),375(RTTrdVolume),411(rthistvol),456/59(IBDividends),460(Bond Factor Multiplier),576(EtfNavBidAsk(navbidask)),577(EtfNavLast(navlast)),578(EtfNavClose(navclose)),587(Pl Price Delayed),588(Futures Open Interest),595(Short-Term Volume X Mins),614(EtfNavMisc(high/low)),619(Creditman Slow Mark Price),623(EtfFrozenNavLast(fznavlast))

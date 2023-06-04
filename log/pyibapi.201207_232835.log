@@ -1,0 +1,10 @@
+(MainThread) 201207_23:28:35.735 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:euhmds
+(MainThread) 201207_23:28:35.736 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201207_23:28:35.736 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201207_23:28:35.836 ERROR wrapper.py:56 ERROR 5001 200 No security definition has been found for the request
+(MainThread) 201207_23:28:35.899 ERROR wrapper.py:56 ERROR 5002 200 No security definition has been found for the request
+(MainThread) 201207_23:28:35.899 ERROR wrapper.py:56 ERROR 5003 200 No security definition has been found for the request
+(MainThread) 201207_23:31:47.002 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_23:32:07.613 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_23:32:28.221 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201207_23:32:48.925 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj

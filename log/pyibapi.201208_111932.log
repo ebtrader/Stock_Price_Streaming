@@ -1,0 +1,39 @@
+(MainThread) 201208_11:19:32.455 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201208_11:19:32.455 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201208_11:19:32.456 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201208_11:19:32.456 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201208_11:19:32.456 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201208_11:19:32.457 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201208_11:19:32.458 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201208_13:38:33.646 ERROR wrapper.py:56 ERROR -1 1100 Connectivity between IB and Trader Workstation has been lost.
+(MainThread) 201208_13:38:33.904 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201208_13:38:34.075 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usfarm
+(MainThread) 201208_13:38:35.539 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201208_13:38:36.039 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201208_13:38:37.349 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:cashfarm
+(MainThread) 201208_13:38:37.439 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usfuture
+(MainThread) 201208_13:38:37.780 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usfarm.nj
+(MainThread) 201208_13:38:37.922 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201208_13:38:38.143 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201208_13:38:38.479 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201208_13:38:39.188 ERROR wrapper.py:56 ERROR -1 2105 HMDS data farm connection is broken:ushmds
+(MainThread) 201208_13:38:39.351 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201208_13:38:42.132 ERROR wrapper.py:56 ERROR -1 2105 HMDS data farm connection is broken:cashhmds
+(MainThread) 201208_13:38:42.369 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
+(MainThread) 201208_13:39:38.825 ERROR wrapper.py:56 ERROR -1 1102 Connectivity between IB and Trader Workstation has been restored - data maintained. All data farms are connected: usfarm.nj; usfuture; cashfarm; usfarm; cashhmds; ushmds; secdefnj.
+(MainThread) 201208_14:17:40.139 ERROR wrapper.py:56 ERROR -1 1100 Connectivity between IB and Trader Workstation has been lost.
+(MainThread) 201208_14:17:40.373 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usfarm
+(MainThread) 201208_14:17:41.751 ERROR wrapper.py:56 ERROR -1 2157 Sec-def data farm connection is broken:secdefnj
+(MainThread) 201208_14:17:42.123 ERROR wrapper.py:56 ERROR -1 2158 Sec-def data farm connection is OK:secdefnj
+(MainThread) 201208_14:17:42.804 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm
+(MainThread) 201208_14:17:43.756 ERROR wrapper.py:56 ERROR -1 1102 Connectivity between IB and Trader Workstation has been restored - data maintained. All data farms are connected: usfarm.nj; usfuture; cashfarm; usfarm; cashhmds; ushmds; secdefnj.
+(MainThread) 201208_14:17:43.936 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usfuture
+(MainThread) 201208_14:17:44.350 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfuture
+(MainThread) 201208_14:17:45.251 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:cashfarm
+(MainThread) 201208_14:17:45.490 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:cashfarm
+(MainThread) 201208_14:17:45.830 ERROR wrapper.py:56 ERROR -1 2103 Market data farm connection is broken:usfarm.nj
+(MainThread) 201208_14:17:46.302 ERROR wrapper.py:56 ERROR -1 2104 Market data farm connection is OK:usfarm.nj
+(MainThread) 201208_14:17:46.696 ERROR wrapper.py:56 ERROR -1 2105 HMDS data farm connection is broken:ushmds
+(MainThread) 201208_14:17:46.813 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:ushmds
+(MainThread) 201208_14:17:49.690 ERROR wrapper.py:56 ERROR -1 2105 HMDS data farm connection is broken:cashhmds
+(MainThread) 201208_14:17:49.889 ERROR wrapper.py:56 ERROR -1 2106 HMDS data farm connection is OK:cashhmds
